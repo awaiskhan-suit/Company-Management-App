@@ -1,0 +1,33 @@
+
+
+
+
+{
+  "project_info": {
+    "project_number": "946273095962",
+    "project_id": "worknexa-b959d",
+    "storage_bucket": "worknexa-b959d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946273095962:android:24a24b1d30c1b000f99ca3",
+        "android_client_info": {
+          "package_name": "com.example.worknexa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1Y-vjhu00Ch3jX_i_YSiwM9BMhw06A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
